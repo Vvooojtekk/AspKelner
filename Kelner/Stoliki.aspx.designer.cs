@@ -33,22 +33,13 @@ namespace Kelner
         protected global::System.Web.UI.WebControls.DropDownList ddlStoliki;
 
         /// <summary>
-        /// Kontrolka lblZamowienie.
+        /// Kontrolka lblOferta3.
         /// </summary>
         /// <remarks>
         /// Pole generowane automatycznie.
         /// By zmodyfikować deklaracje pola przenieś ją z pliku projektanta do pliku codebehind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblZamowienie;
-
-        /// <summary>
-        /// Kontrolka lblOferta.
-        /// </summary>
-        /// <remarks>
-        /// Pole generowane automatycznie.
-        /// By zmodyfikować deklaracje pola przenieś ją z pliku projektanta do pliku codebehind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblOferta;
+        protected global::System.Web.UI.WebControls.Label lblOferta3;
 
         /// <summary>
         /// Kontrolka lstZamowienie.
@@ -139,6 +130,24 @@ namespace Kelner
         /// By zmodyfikować deklaracje pola przenieś ją z pliku projektanta do pliku codebehind.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList ddlIloscZmien;
+
+        /// <summary>
+        /// Kontrolka lblOferta.
+        /// </summary>
+        /// <remarks>
+        /// Pole generowane automatycznie.
+        /// By zmodyfikować deklaracje pola przenieś ją z pliku projektanta do pliku codebehind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblOferta;
+
+        /// <summary>
+        /// Kontrolka lblOferta2.
+        /// </summary>
+        /// <remarks>
+        /// Pole generowane automatycznie.
+        /// By zmodyfikować deklaracje pola przenieś ją z pliku projektanta do pliku codebehind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblOferta2;
 
         /// <summary>
         /// Kontrolka lstOferta.

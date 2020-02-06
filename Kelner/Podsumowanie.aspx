@@ -1,12 +1,15 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Podsumowanie.aspx.cs" Inherits="Kelner.WebForm2" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-    <table class="nav-justified">
+    <table class="table">
     <tr>
         <td>
-            <asp:Label ID="lblPodsumowanie" runat="server" Text="Podsumowanie"></asp:Label>
+            <h1><asp:Label ID="lblPodsumowanie" runat="server" Text="Podsumowanie"></asp:Label></h1>
         </td>
+        
+    </tr>
+    <tr>
         <td>
-            <asp:Label ID="lblStolik" runat="server"></asp:Label>
+            <h5>  <asp:Label ID="lblStolik" runat="server"></asp:Label></h5>
         </td>
     </tr>
     <tr>
